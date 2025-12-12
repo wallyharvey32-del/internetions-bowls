@@ -1,0 +1,64 @@
+
+.min-vh-100 { 
+    min-height: 100vh; 
+}
+
+.rounded-2xl { 
+    border-radius: 1rem !important; 
+}
+
+.rounded-pill { 
+    border-radius: 50rem !important; 
+}
+
+/* Home Page Aspect Ratio Utilities */
+.aspect-video { 
+    aspect-ratio: 16 / 9; 
+}
+@media (min-width: 768px) {
+    .md-aspect-16-6 { 
+        aspect-ratio: 16 / 6 !important; 
+    }
+}
+
+
+/* NAVBAR & BUTTONS */
+
+/* Primary Emerald Color */
+.text-emerald { 
+    color: #10b981 !important; 
+} 
+
+/* Emerald Hover Effect for Nav Links */
+.text-emerald-hover {
+    transition: color 0.15s ease-in-out;
+}
+
+/* The darker emerald color */
+.text-emerald-hover:hover { 
+    color: #059669 !important;
+}
+
+/* Custom Donation Button Styles */
+.bg-red-custom { 
+    background-color: #f59e0b !important; 
+} 
+.text-red-custom { 
+    color: #c91a1a !important; 
+} 
+.bg-red-custom:hover { 
+    background-color: #d97706 !important; 
+} 
+
+/* Emerald Submit Button for Contact Page */
+.btn-emerald-custom {
+    background-color: #059669 !important; 
+    color: white;
+    font-weight: 700;
+    transition: background-color 0.15s ease-in-out;
+}
+.btn-emerald-custom:hover {
+    background-color: #047857 !important; 
+}
+
+
