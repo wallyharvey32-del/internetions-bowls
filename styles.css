@@ -61,4 +61,30 @@
     background-color: #047857 !important; 
 }
 
+.bg-yellow-custom {
+    background-color: #f5b618 !important; 
+}
 
+.bg-lightgreen-custom {
+    background-color: #caebdb !important; 
+}
+
+.bg-pink-custom {
+    background-color: #b3d7cffd !important; 
+}
+
+.bg-platinum-custom {
+    background-color: #b89ce8 !important; 
+}
+
+.bg-goldenrod-custom {
+    background-color: #fbbf24 !important; 
+}
+
+.bg-silver-custom {
+    background-color: #eee0e0 !important; 
+}
+
+.bg-body-custom {
+    background-color: #c0c5c3 !important; 
+}
